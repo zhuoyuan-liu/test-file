@@ -1,1 +1,1 @@
-# test-file
+This is the updated content of the file.
